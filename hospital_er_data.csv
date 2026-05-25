@@ -1,0 +1,11 @@
+Patient_ID,Patient_Name,Age,Gender,Visit_Date,Department,Doctor,Wait_Time_Minutes,Treatment_Time_Minutes,Severity_Level,Admission_Status,Bill_Amount
+P001,Ravi Kumar,45,Male,2026-05-01,Cardiology,Dr. Sharma,25,60,High,Admitted,15000
+P002,Sneha Reddy,30,Female,2026-05-01,Neurology,Dr. Mehta,40,45,Medium,Discharged,8000
+P003,Arjun Rao,55,Male,2026-05-02,Orthopedics,Dr. Patel,15,30,Low,Discharged,5000
+P004,Divya Singh,22,Female,2026-05-02,Pediatrics,Dr. Khan,50,70,High,Admitted,20000
+P005,Kiran Kumar,60,Male,2026-05-03,Cardiology,Dr. Sharma,35,90,Critical,Admitted,30000
+P006,Anjali Devi,27,Female,2026-05-03,General Medicine,Dr. Raju,20,40,Medium,Discharged,7000
+P007,Rahul Verma,39,Male,2026-05-04,Neurology,Dr. Mehta,60,80,High,Admitted,25000
+P008,Pooja Naik,18,Female,2026-05-04,Orthopedics,Dr. Patel,10,25,Low,Discharged,4000
+P009,Vikram Das,50,Male,2026-05-05,General Medicine,Dr. Raju,30,50,Medium,Admitted,10000
+P010,Nisha Iyer,33,Female,2026-05-05,Pediatrics,Dr. Khan,45,65,High,Admitted,18000
