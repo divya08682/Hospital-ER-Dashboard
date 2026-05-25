@@ -1,0 +1,7 @@
+Total Revenue = SUM(hospital_er_data[Bill_Amount])
+
+Average Wait Time = AVERAGE(hospital_er_data[Wait_Time_Minutes])
+
+Average Treatment Time = AVERAGE(hospital_er_data[Treatment_Time_Minutes])
+
+Total Patients = COUNT(hospital_er_data[Patient_ID])

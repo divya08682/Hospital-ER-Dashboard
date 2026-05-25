@@ -1,0 +1,12 @@
+{
+  "name": "Hospital Theme",
+  "dataColors": [
+    "#1F77B4",
+    "#FF7F0E",
+    "#2CA02C",
+    "#D62728"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#1F77B4"
+}
